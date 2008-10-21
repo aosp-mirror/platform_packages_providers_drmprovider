@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="permdesc_accessDrm">Ermöglicht einer Anwendung auf
+        DRM-geschützte Inhalte zuzugreifen.</string>
+  <string name="permdesc_queryDrm">Ermöglicht einer Anwendung Inhalte 
+        des DRM-Inhaltanbieters abzufragen.</string>
+  <string name="permlab_accessDrm">Auf DRM-Inhalte zugreifen.</string>
+  <string name="permlab_queryDrm">DRM-Inhalte abfragen.</string>
+</resources>
