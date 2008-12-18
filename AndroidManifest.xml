@@ -16,7 +16,8 @@
         <provider android:name=".DrmProvider" android:authorities="drm"
                 android:multiprocess="false" />
 
-        <receiver android:name=".DrmPushReceiver">
+        <receiver android:name=".DrmPushReceiver"
+                android:permission="android.permission.BROADCAST_WAP_PUSH">
             <intent-filter>
                 <action android:name="android.provider.Telephony.WAP_PUSH_RECEIVED" />
                 <data android:mimeType="application/vnd.oma.drm.rights+xml" />

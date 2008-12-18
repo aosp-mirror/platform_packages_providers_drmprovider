@@ -15,10 +15,10 @@
 -->
 
 <resources>
+    <!-- Title of the permission that allows access to DRM content -->
     <string name="permlab_accessDrm">Access DRM content.</string>
+
+    <!-- Description of the permission that allows access to DRM content -->
     <string name="permdesc_accessDrm">Allows application to access
         DRM-protected content.</string>
-    <string name="permlab_queryDrm">Query DRM content.</string>
-    <string name="permdesc_queryDrm">Allows application to query the 
-        contents of the DRM content provider.</string>
 </resources>
