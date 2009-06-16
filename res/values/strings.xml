@@ -15,6 +15,9 @@
 -->
 
 <resources>
+    <!-- Title of the storage activity for DRM content. -->
+    <string name="app_label">DRM Protected Content Storage</string>
+
     <!-- Title of the permission that allows access to DRM content -->
     <string name="permlab_accessDrm">Access DRM content.</string>
 

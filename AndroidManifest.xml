@@ -11,7 +11,7 @@
     <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH" />
 
     <application android:process="android.process.media"
-                 android:label="DRM Protected Content Storage">
+                 android:label="@string/app_label">
 
         <provider android:name=".DrmProvider" android:authorities="drm"
                 android:multiprocess="false" />
