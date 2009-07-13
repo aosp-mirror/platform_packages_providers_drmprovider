@@ -15,6 +15,8 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="permlab_accessDrm">"访问数字版权管理内容。"</string>
-    <string name="permdesc_accessDrm">"允许应用程序访问受数字版权管理保护的内容。"</string>
+    <!-- no translation found for app_label (5439897702697364618) -->
+    <skip />
+    <string name="permlab_accessDrm">"访问 DRM 内容。"</string>
+    <string name="permdesc_accessDrm">"允许应用程序访问受 DRM 保护的内容。"</string>
 </resources>
