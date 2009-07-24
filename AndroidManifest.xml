@@ -8,6 +8,11 @@
         android:description="@string/permdesc_accessDrm"
         android:protectionLevel="signature" />
 
+    <permission android:name="android.permission.INSTALL_DRM"
+        android:label="@string/permlab_installDrm"
+        android:description="@string/permdesc_installDrm"
+        android:protectionLevel="normal" />
+
     <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH" />
 
     <application android:process="android.process.media"
