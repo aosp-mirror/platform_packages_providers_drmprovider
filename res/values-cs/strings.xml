@@ -15,6 +15,7 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"Paměť pro obsah DRM"</string>
     <string name="permlab_accessDrm">"Získat přístup k obsahu DRM."</string>
     <string name="permdesc_accessDrm">"Umožní aplikaci získat přístup k obsahu chráněnému technologií DRM."</string>
 </resources>

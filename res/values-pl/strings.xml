@@ -15,6 +15,7 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"Magazyn treści chronionych za pomocą systemu DRM"</string>
     <string name="permlab_accessDrm">"Dostęp do treści chronionych mechanizmem DRM."</string>
     <string name="permdesc_accessDrm">"Umożliwia programom dostęp do treści chronionych mechanizmem DRM."</string>
 </resources>
