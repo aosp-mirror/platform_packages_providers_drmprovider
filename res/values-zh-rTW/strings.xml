@@ -15,7 +15,7 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label">"DRM 保護內容儲存空間"</string>
-    <string name="permlab_accessDrm">"存取 DRM 內容。"</string>
-    <string name="permdesc_accessDrm">"允許應用程式存取受到 DRM 保護的內容。"</string>
+    <string name="app_label" msgid="5439897702697364618">"DRM 保護內容儲存空間"</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"存取 DRM 內容。"</string>
+    <string name="permdesc_accessDrm" msgid="3376257809694293454">"允許應用程式存取受到 DRM 保護的內容。"</string>
 </resources>
