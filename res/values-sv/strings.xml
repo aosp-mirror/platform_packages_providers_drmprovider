@@ -17,6 +17,10 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- no translation found for app_label (5439897702697364618) -->
     <skip />
-    <string name="permlab_accessDrm">"Åtkomst till DRM-innehåll."</string>
-    <string name="permdesc_accessDrm">"Tillåter att ett program får åtkomst till DRM-skyddat innehåll."</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Åtkomst till DRM-innehåll."</string>
+    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Tillåter att ett program får åtkomst till DRM-skyddat innehåll."</string>
+    <!-- no translation found for permlab_installDrm (4716871004736576753) -->
+    <skip />
+    <!-- no translation found for permdesc_installDrm (8352431922295326348) -->
+    <skip />
 </resources>

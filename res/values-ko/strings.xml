@@ -17,6 +17,10 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- no translation found for app_label (5439897702697364618) -->
     <skip />
-    <string name="permlab_accessDrm">"DRM 콘텐츠에 액세스합니다."</string>
-    <string name="permdesc_accessDrm">"응용프로그램이 DRM으로 보호된 콘텐츠에 액세스할 수 있도록 허용합니다."</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"DRM 콘텐츠에 액세스합니다."</string>
+    <string name="permdesc_accessDrm" msgid="3376257809694293454">"응용프로그램이 DRM으로 보호된 콘텐츠에 액세스할 수 있도록 허용합니다."</string>
+    <!-- no translation found for permlab_installDrm (4716871004736576753) -->
+    <skip />
+    <!-- no translation found for permdesc_installDrm (8352431922295326348) -->
+    <skip />
 </resources>
