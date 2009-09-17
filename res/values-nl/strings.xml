@@ -18,8 +18,6 @@
     <string name="app_label" msgid="5439897702697364618">"DRM-beschermde inhoudsopslag"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"DRM-inhoud openen."</string>
     <string name="permdesc_accessDrm" msgid="3376257809694293454">"Hiermee krijgt de toepassing toegang tot inhoud met DRM-bescherming."</string>
-    <!-- no translation found for permlab_installDrm (4716871004736576753) -->
-    <skip />
-    <!-- no translation found for permdesc_installDrm (8352431922295326348) -->
-    <skip />
+    <string name="permlab_installDrm" msgid="4716871004736576753">"DRM-inhoud installeren."</string>
+    <string name="permdesc_installDrm" msgid="8352431922295326348">"Hiermee krijgt de toepassing toegang voor de installatie van inhoud met DRM-beveiliging."</string>
 </resources>

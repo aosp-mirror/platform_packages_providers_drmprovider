@@ -18,8 +18,6 @@
     <string name="app_label" msgid="5439897702697364618">"Archiviazione contenuti protetti con DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Accedere a contenuti DRM."</string>
     <string name="permdesc_accessDrm" msgid="3376257809694293454">"Consente l\'accesso dell\'applicazione a contenuti protetti tramite DRM."</string>
-    <!-- no translation found for permlab_installDrm (4716871004736576753) -->
-    <skip />
-    <!-- no translation found for permdesc_installDrm (8352431922295326348) -->
-    <skip />
+    <string name="permlab_installDrm" msgid="4716871004736576753">"Installare contenuti DRM."</string>
+    <string name="permdesc_installDrm" msgid="8352431922295326348">"Consente all\'applicazione di installare contenuti protetti tramite DRM."</string>
 </resources>
