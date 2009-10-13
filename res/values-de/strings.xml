@@ -15,7 +15,9 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label">"DRM-geschützter Content-Speicher"</string>
-    <string name="permlab_accessDrm">"Auf DRM-Inhalt zugreifen"</string>
-    <string name="permdesc_accessDrm">"Ermöglicht einer Anwendung, auf DRM-geschützte Inhalte zuzugreifen."</string>
+    <string name="app_label" msgid="5439897702697364618">"DRM-geschützter Content-Speicher"</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Auf DRM-Inhalt zugreifen"</string>
+    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Ermöglicht einer Anwendung, auf DRM-geschützte Inhalte zuzugreifen."</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"DRM-Content installieren"</string>
+    <string name="permdesc_installDrm" msgid="8352431922295326348">"Der Anwendung wird ermöglicht, DRM-geschützten Content zu installieren."</string>
 </resources>
