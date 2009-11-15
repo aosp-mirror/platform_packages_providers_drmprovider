@@ -15,7 +15,9 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label">"Stockage du contenu protégé par DRM"</string>
-    <string name="permlab_accessDrm">"Accéder au contenu DMR."</string>
-    <string name="permdesc_accessDrm">"Permet à l\'application d\'accéder à du contenu protégé par DMR."</string>
+    <string name="app_label" msgid="5439897702697364618">"Stockage du contenu protégé par DRM"</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Accéder au contenu DMR."</string>
+    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Permet à l\'application d\'accéder à du contenu protégé par DMR."</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"Installer le contenu GDN"</string>
+    <string name="permdesc_installDrm" msgid="8352431922295326348">"Autorise l\'application à installer du contenu protégé par GDN."</string>
 </resources>

@@ -215,9 +215,9 @@ public class DrmProvider extends ContentProvider
     @Override
     public Uri insert(Uri uri, ContentValues initialValues)
     {
-        if (getContext().checkCallingOrSelfPermission(Manifest.permission.ACCESS_DRM) 
+        if (getContext().checkCallingOrSelfPermission(Manifest.permission.INSTALL_DRM)
                 != PackageManager.PERMISSION_GRANTED) {
-            throw new SecurityException("Requires DRM permission");
+            throw new SecurityException("Requires INSTALL_DRM permission");
         }
 
         long rowId;
@@ -257,7 +257,7 @@ public class DrmProvider extends ContentProvider
         if (newUri != null) {
             getContext().getContentResolver().notifyChange(uri, null);
         }
-        
+
         return newUri;
     }
 
@@ -331,7 +331,7 @@ public class DrmProvider extends ContentProvider
 
     @Override
     public int delete(Uri uri, String userWhere, String[] whereArgs) {
-        if (getContext().checkCallingOrSelfPermission(Manifest.permission.ACCESS_DRM) 
+        if (getContext().checkCallingOrSelfPermission(Manifest.permission.ACCESS_DRM)
                 != PackageManager.PERMISSION_GRANTED) {
             throw new SecurityException("Requires DRM permission");
         }
@@ -357,9 +357,9 @@ public class DrmProvider extends ContentProvider
     @Override
     public int update(Uri uri, ContentValues initialValues, String userWhere,
             String[] whereArgs) {
-        if (getContext().checkCallingOrSelfPermission(Manifest.permission.ACCESS_DRM) 
+        if (getContext().checkCallingOrSelfPermission(Manifest.permission.ACCESS_DRM)
                 != PackageManager.PERMISSION_GRANTED) {
-            throw new SecurityException("Requires DRM permission");
+            throw new SecurityException("Requires ACCESS_DRM permission");
         }
 
         int count;
@@ -383,9 +383,12 @@ public class DrmProvider extends ContentProvider
     @Override
     public ParcelFileDescriptor openFile(Uri uri, String mode)
             throws FileNotFoundException {
-        if (getContext().checkCallingOrSelfPermission(Manifest.permission.ACCESS_DRM) 
+        String requiredPermission = mode.equals("w") ?
+                Manifest.permission.INSTALL_DRM : Manifest.permission.ACCESS_DRM;
+
+        if (getContext().checkCallingOrSelfPermission(requiredPermission)
                 != PackageManager.PERMISSION_GRANTED) {
-            throw new SecurityException("Requires DRM permission");
+            throw new SecurityException("Requires " + requiredPermission);
         }
         return openFileHelper(uri, mode);
     }
@@ -404,7 +407,7 @@ public class DrmProvider extends ContentProvider
             DrmStore.Columns._ID, // 0
             DrmStore.Columns.MIME_TYPE, // 1
     };
-    
+
     private SQLiteOpenHelper mOpenHelper;
 
     static

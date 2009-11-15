@@ -15,8 +15,9 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- no translation found for app_label (5439897702697364618) -->
-    <skip />
-    <string name="permlab_accessDrm">"Acessar conteúdo DRM."</string>
-    <string name="permdesc_accessDrm">"Permite que o aplicativo acesse conteúdo protegido por DRM."</string>
+    <string name="app_label" msgid="5439897702697364618">"Armazenamento de conteúdo protegido por DRM"</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Acessar conteúdo DRM."</string>
+    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Permite que o aplicativo acesse conteúdo protegido por DRM."</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"Instalar conteúdo DRM."</string>
+    <string name="permdesc_installDrm" msgid="8352431922295326348">"Permite que o aplicativo instale conteúdo protegido por DRM."</string>
 </resources>
