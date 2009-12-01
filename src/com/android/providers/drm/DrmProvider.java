@@ -27,6 +27,7 @@ import android.database.sqlite.SQLiteStatement;
 import android.net.Uri;
 import android.os.ParcelFileDescriptor;
 import android.provider.DrmStore;
+import android.provider.OpenableColumns;
 import android.text.TextUtils;
 import android.util.Config;
 import android.util.Log;
@@ -162,6 +163,14 @@ public class DrmProvider extends ContentProvider
 
             default:
                 throw new IllegalStateException("Unknown URL: " + uri.toString());
+        }
+
+        if (projectionIn != null) {
+            for (int i = 0; i < projectionIn.length; i++) {
+                if (projectionIn[i].equals(OpenableColumns.DISPLAY_NAME)) {
+                    projectionIn[i] = "title AS " + OpenableColumns.DISPLAY_NAME;
+                }
+            }
         }
 
         SQLiteDatabase db = mOpenHelper.getReadableDatabase();
