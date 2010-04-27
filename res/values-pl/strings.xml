@@ -19,6 +19,6 @@
     <string name="app_label" msgid="5439897702697364618">"Magazyn treści chronionych za pomocą systemu DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Dostęp do treści chronionych mechanizmem DRM."</string>
     <string name="permdesc_accessDrm" msgid="3376257809694293454">"Umożliwia programom dostęp do treści chronionych mechanizmem DRM."</string>
-    <string name="permlab_installDrm" msgid="4716871004736576753">"Zainstaluj treść chronioną za pomocą systemu DRM"</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"instalowanie treści DRM"</string>
     <string name="permdesc_installDrm" msgid="8352431922295326348">"Zezwala aplikacji na instalowanie treści chronionej za pomocą systemu DRM."</string>
 </resources>
