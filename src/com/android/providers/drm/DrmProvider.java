@@ -29,7 +29,6 @@ import android.os.ParcelFileDescriptor;
 import android.provider.DrmStore;
 import android.provider.OpenableColumns;
 import android.text.TextUtils;
-import android.util.Config;
 import android.util.Log;
 
 import java.io.File;
