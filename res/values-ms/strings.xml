@@ -19,8 +19,6 @@
     <string name="app_label" msgid="5439897702697364618">"Storan Kandungan Dilindungi DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Akses kandungan DRM."</string>
     <string name="permdesc_accessDrm" msgid="3376257809694293454">"Membenarkan aplikasi mengakses kandungan yang dilindungi DRM."</string>
-    <!-- no translation found for permlab_installDrm (4716871004736576753) -->
-    <skip />
-    <!-- no translation found for permdesc_installDrm (8352431922295326348) -->
-    <skip />
+    <string name="permlab_installDrm" msgid="4716871004736576753">"Pasang kandungan DRM."</string>
+    <string name="permdesc_installDrm" msgid="8352431922295326348">"Membenarkan aplikasi memasang kandungan yang dilindungi DRM."</string>
 </resources>
