@@ -16,7 +16,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" msgid="5439897702697364618">"Ukugcina Okuqukethwe Okuvikelwe nge-DRM"</string>
+    <string name="app_label" msgid="5439897702697364618">"Isitoreji Sokuqukethwe Okuvikelwe nge-DRM"</string>
     <!-- no translation found for permlab_accessDrm (1806974558208719656) -->
     <skip />
     <string name="permdesc_accessDrm" msgid="3376257809694293454">"Ivumela uhlelo lokusebenza ukufinyelela okuqukethwe okuvikelwe nge-DRM."</string>
