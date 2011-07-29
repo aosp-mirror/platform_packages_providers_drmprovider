@@ -16,6 +16,7 @@
     <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH" />
 
     <application android:process="android.process.media"
+                 android:allowBackup="false"
                  android:label="@string/app_label">
 
         <provider android:name=".DrmProvider" android:authorities="drm"
