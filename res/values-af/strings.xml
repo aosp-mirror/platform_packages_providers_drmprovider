@@ -17,8 +17,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Berging van DRM-beskermde inhoud"</string>
-    <!-- no translation found for permlab_accessDrm (1806974558208719656) -->
-    <skip />
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Kry toegang tot DRM-inhoud."</string>
     <string name="permdesc_accessDrm" msgid="3376257809694293454">"Stel program in staat om DRM-beskermde inhoud oop te maak."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Installeer DRM-inhoud"</string>
     <string name="permdesc_installDrm" msgid="8352431922295326348">"Stel program in staat om DRM-beskermde inhoud te installeer."</string>
