@@ -17,8 +17,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Hifadhi ya Maudhui Yanayolindwa na DRM"</string>
-    <!-- no translation found for permlab_accessDrm (1806974558208719656) -->
-    <skip />
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Fikia maudhui ya DRM."</string>
     <string name="permdesc_accessDrm" msgid="3376257809694293454">"Huruhusu programu kufikia maudhui yanayolindwa na DRM."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Weka maudhui ya DRM."</string>
     <string name="permdesc_installDrm" msgid="8352431922295326348">"Huruhusu programu kuweka maudhui yanayolindwa na DRM."</string>
