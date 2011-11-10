@@ -22,13 +22,13 @@
     <string name="permlab_accessDrm">Access DRM content.</string>
 
     <!-- Description of the permission that allows access to DRM content -->
-    <string name="permdesc_accessDrm">Allows application to access
+    <string name="permdesc_accessDrm">Allows app to access
         DRM-protected content.</string>
 
     <!-- Title of the permission that allows installation of DRM content -->
     <string name="permlab_installDrm">Install DRM content.</string>
 
     <!-- Description of the permission that allows installation of DRM content -->
-    <string name="permdesc_installDrm">Allows application to install
+    <string name="permdesc_installDrm">Allows app to install
         DRM-protected content.</string>
 </resources>
