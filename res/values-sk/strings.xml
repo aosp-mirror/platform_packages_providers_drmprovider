@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Ukladací priestor pre obsah DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Získať prístup k obsahu DRM."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Povoľuje aplikácii získať prístup k obsahu chránenému technológiou DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Umožňuje aplikácii získať prístup k obsahu chránenému technológiou DRM."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Nainštalovať obsah DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Povoľuje aplikácii nainštalovať obsah chránený technológiou DRM."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Umožňuje aplikácii nainštalovať obsah chránený pomocou technológie DRM."</string>
 </resources>

@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"DRM-védett tartalom tárolása"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Hozzáférés DRM-tartalmakhoz."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Lehetővé teszi, hogy az alkalmazás hozzáférjen a DRM-védett tartalomhoz."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Lehetővé teszi az alkalmazások számára DRM-védett tartalmak elérését."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"DRM-tartalom telepítése."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Lehetővé teszi, hogy az alkalmazás DRM-védett tartalmat telepítsen."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Lehetővé teszi alkalmazások számára DRM-védett tartalmak telepítését."</string>
 </resources>

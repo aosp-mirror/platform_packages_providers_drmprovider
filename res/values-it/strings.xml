@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Archiviazione contenuti protetti con DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Accedere a contenuti DRM."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Consente l\'accesso dell\'applicazione a contenuti protetti tramite DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Consente l\'accesso dell\'applicazione a contenuti protetti tramite DRM."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Installare contenuti DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Consente all\'applicazione di installare contenuti protetti tramite DRM."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Consente all\'applicazione di installare contenuti protetti tramite DRM."</string>
 </resources>

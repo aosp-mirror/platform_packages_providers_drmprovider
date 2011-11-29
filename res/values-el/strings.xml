@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Αποθηκευτικός χώρος περιεχομένου προστατευμένου με DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Πρόσβαση σε περιεχόμενο DRM."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Επιτρέπει στην εφαρμογή την πρόσβαση σε περιεχόμενο προστατευμένο με DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Επιτρέπει στην εφαρμογή την πρόσβαση σε περιεχόμενο προστατευμένο με DRM."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Εγκατάσταση περιεχομένου DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Επιτρέπει στην εφαρμογή την εγκατάσταση περιεχομένου προστατευμένου με DRM."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Επιτρέπει στην εφαρμογή την εγκατάσταση περιεχομένου προστατευμένου με DRM."</string>
 </resources>

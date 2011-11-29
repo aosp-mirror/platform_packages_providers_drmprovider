@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Lagring av DRM-beskyttet innhold"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Få tilgang til DRM-innhold."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Lar applikasjonen få tilgang til DRM-beskyttet innhold."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Gir appen tilgang til DRM-beskyttet innhold."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Installer DRM-innhold."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Tillater applikasjoner å installere DRM-beskyttet innhold."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Lar apper installere DRM-beskyttet innhold."</string>
 </resources>

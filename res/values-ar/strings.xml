@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"تخزين المحتوى DRM المحمي"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"الدخول إلى محتوى DRM"</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"للسماح للتطبيقات بالدخول إلى محتوى DRM المحمي."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"للسماح للتطبيق بالدخول إلى المحتوى المحمي بموجب DRM."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"تثبيت محتوى DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"للسماح للتطبيقات بتثبيت محتوى DRM المحمي."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"للسماح للتطبيقات بتثبيت المحتوى المحمي بموجب DRM."</string>
 </resources>

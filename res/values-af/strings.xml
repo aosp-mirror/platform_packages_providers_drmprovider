@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Berging van DRM-beskermde inhoud"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Kry toegang tot DRM-inhoud."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Stel program in staat om DRM-beskermde inhoud oop te maak."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Laat program toe om by DRM-beskermde inhoud in te gaan."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Installeer DRM-inhoud"</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Stel program in staat om DRM-beskermde inhoud te installeer."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Laat program toe om DRM-beskermde inhoud te installeer."</string>
 </resources>

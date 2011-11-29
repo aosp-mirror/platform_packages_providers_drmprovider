@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Penyimpanan Konten yang Dilindungi DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Akses konten DRM."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Izinkan aplikasi mengakses konten yang dilindungi DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Mengizinkan apl mengakses konten yang dilindungi DRM."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Pasang konten DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Izinkan aplikasi memasang konten yang dilindungi DRM."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Mengizinkan apl memasang konten yang dilindungi DRM."</string>
 </resources>

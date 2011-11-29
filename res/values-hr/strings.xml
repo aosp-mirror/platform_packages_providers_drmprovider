@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Pohrana DRM zaštićenog sadržaja"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Pristupite DRM sadržaju."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Omogućuje aplikaciji da pristupi sadržaju koji štiti DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Aplikaciji omogućuje pristup sadržaju zaštićenom DRM-om."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Instalirajte DRM sadržaj."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Omogućuje aplikaciji instaliranje DRM-zaštićenog sadržaja."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Aplikaciji omogućuje instaliranje sadržaja zaštićenog DRM-om."</string>
 </resources>

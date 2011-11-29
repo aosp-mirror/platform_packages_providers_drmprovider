@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Lưu trữ Nội dung được Bảo vệ bởi DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Truy cập nội dung DRM."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Cho phép ứng dụng truy cập nội dung được bảo vệ bởi DRM."</string>
-    <string name="permlab_installDrm" msgid="4716871004736576753">"Cài đặt nội dung DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Cho phép ứng dụng cài đặt nội dung được bảo vệ bởi DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Cho phép ứng dụng truy cập nội dung được bảo vệ bởi DRM."</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"Cài đặt nội dung DRM."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Cho phép ứng dụng cài đặt nội dung được bảo vệ bởi DRM."</string>
 </resources>

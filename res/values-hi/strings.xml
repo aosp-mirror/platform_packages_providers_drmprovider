@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"DRM सुरक्षित सामग्री संग्रहण"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"DRM सामग्री पर पहुंचें."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"एप्लिकेशन को DRM-सुरक्षित सामग्री में पहुंच प्राप्त करने की अनुमति देता है."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"एप्लिकेशन को DRM-सुरक्षित सामग्री में पहुंच प्राप्त करने देता है."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"DRM सामग्री इंस्टॉल करें."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"एप्लिकेशन को DRM-सुरक्षित सामग्री इंस्टॉल करने की अनुमति देता है."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"एप्लिकेशन को DRM-सुरक्षित सामग्री इंस्टॉल करने देता है."</string>
 </resources>

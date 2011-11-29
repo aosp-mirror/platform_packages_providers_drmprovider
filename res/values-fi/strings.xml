@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"DRM-suojatun sisällön tallennus"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"DRM-suojatun sisällön käyttö."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Sallii sovelluksen käyttää DRM-suojattua sisältöä."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Salli sovelluksen käyttää DRM-suojattua sisältöä."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"DRM-suojatun sisällön asennus."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Sallii sovelluksen asentaa DRM-suojattua sisältöä."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Salli sovelluksen asentaa DRM-suojattua sisältöä."</string>
 </resources>
