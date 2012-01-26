@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"Сховішча змесціва, абароненага DRM"</string>
     <string name="permlab_accessDrm" msgid="1806974558208719656">"Доступ да змесціва, абароненага DRM."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Дазваляе прыкладанню доступ да змесціва, абароненага DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Дазваляе прыкладанню атрымліваць доступ да змесціва, абароненага DRM."</string>
     <string name="permlab_installDrm" msgid="4716871004736576753">"Усталёўваць змесціва, абароненае DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Дазваляе прыкладанням ўсталёўваць змесціва, абароненае DRM."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Дазваляе прыкладанню ўсталёўваць змесціва, абароненае DRM."</string>
 </resources>
