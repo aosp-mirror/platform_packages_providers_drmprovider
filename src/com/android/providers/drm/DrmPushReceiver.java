@@ -22,11 +22,11 @@ import java.io.IOException;
 import android.drm.mobile1.DrmException;
 import android.drm.mobile1.DrmRights;
 import android.drm.mobile1.DrmRightsManager;
-import static android.provider.Telephony.Sms.Intents.WAP_PUSH_RECEIVED_ACTION;
 
 import android.content.Context;
 import android.content.Intent;
 import android.content.BroadcastReceiver;
+import android.provider.Telephony;
 import android.util.Log;
 
 public class DrmPushReceiver extends BroadcastReceiver {
@@ -34,7 +34,7 @@ public class DrmPushReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        if (intent.getAction().equals(WAP_PUSH_RECEIVED_ACTION)) {
+        if (intent.getAction().equals(Telephony.Sms.Intents.WAP_PUSH_RECEIVED_ACTION)) {
             // Get right mimetype.
             String rightMimeType = intent.getType();
             if (DrmRightsManager.DRM_MIMETYPE_RIGHTS_XML_STRING.equals(rightMimeType) ||
