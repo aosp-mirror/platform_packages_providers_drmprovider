@@ -20,6 +20,7 @@
                  android:label="@string/app_label">
 
         <provider android:name=".DrmProvider" android:authorities="drm"
+                android:exported="true"
                 android:multiprocess="false" />
 
         <receiver android:name=".DrmPushReceiver"
